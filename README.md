@@ -34,7 +34,7 @@ newsletter-engagement-scoring/
 
 ## Schéma de la base de données
 
-> Schéma disponible sur dbdiagram.io : [lien à ajouter après création]
+![Schéma de la base de données](schema_bdd.png)
 
 ```
 abonnes (1) ──< envois >── (1) campagnes
