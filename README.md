@@ -19,6 +19,8 @@ GlowShop est une boutique e-commerce de cosmétiques. L'objectif est d'analyser 
 
 6 tables : categories, products, customers, orders, order_items, rfm_scores
 
+![Schéma BDD](schema_bdd.png)
+
 ## Lancement
 
 pip install -r requirements.txt
